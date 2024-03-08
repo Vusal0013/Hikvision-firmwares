@@ -1,0 +1,3 @@
+V3.4.89_180906: Əgər avadanlıqa son proqram təminatını yazdığınız halda kamera göstərmirsə bu proqram təminatı problemi aradan qaldırır.
+
+V4.30.122_201107: Əgər hərşey qaydasındadırsa bunu yazın
